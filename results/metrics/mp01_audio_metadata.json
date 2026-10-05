@@ -1,0 +1,17 @@
+{
+  "file": "data\\raw\\nyala_001.wav",
+  "sample_rate_hz": 16000,
+  "channels": 1,
+  "bit_depth": 16,
+  "duration_s": 2.0,
+  "num_samples": 32000,
+  "peak_normalized": 0.190704345703125,
+  "rms_normalized": 0.031442273408174515,
+  "clipping_ratio": 0.0,
+  "quality_check": "PASS",
+  "wav_verified": true,
+  "dc_offset": -0.00011737918975995854,
+  "rms_dbfs": -30.049721203438402,
+  "timestamp": "2026-10-01T17:33:29",
+  "input_device": "Microphone Array (Realtek(R) Au"
+}
